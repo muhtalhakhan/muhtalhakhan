@@ -1,10 +1,10 @@
 [![Holopin badges](https://holopin.me/muhtalhakhan)](https://holopin.io/@muhtalhakhan)
 
-### <img src="https://github.com/beliketalha/beliketalha/blob/main/Assets/Hi.gif" width="29px"> hey, i'm talha — spidey 🕷️
+### <img src="https://github.com/beliketalha/beliketalha/blob/main/Assets/Hi.gif" width="29px"> hey, i'm talha (spidey) 🕷️
 
 **ai architect & founder** building agentic systems that actually ship.
 
-founder of **[Tech Arc Labs](https://techarclabs.com)** — AI-native agency delivering production multi-agent systems for 17+ clients across UK & USA. founder of **[0to1.builders](https://0to1.builders)** — a community of 160+ founders and developers shipping from zero.
+founder of **[Tech Arc Labs](https://techarclabs.com)**, an AI-native agency delivering production multi-agent systems for 17+ clients across UK & USA. founder of **[0to1.builders](https://0to1.builders)**, a community of 160+ founders and developers shipping from zero.
 
 ---
 
@@ -12,10 +12,10 @@ founder of **[Tech Arc Labs](https://techarclabs.com)** — AI-native agency del
 
 | project | what it is |
 |---|---|
-| 🤖 **[Tech Arc Labs](https://techarclabs.com)** | AI agency — agentic systems, MCP integrations, LLM context engineering |
+| 🤖 **[Tech Arc Labs](https://techarclabs.com)** | AI agency: agentic systems, MCP integrations, LLM context engineering |
 | 🧑‍🤝‍🧑 **[0to1.builders](https://0to1.builders)** | builder community for founders shipping real products |
-| 📦 **[standup-cli](https://npmjs.com/package/standup-cli-tool)** | generate your daily standup from git commits — 297+ npm downloads |
-| 🐱 **[bytepet-cli](https://npmjs.com/package/bytepet-cli)** | a terminal pet that lives in your CLI — 90+ npm downloads |
+| 📦 **[standup-cli](https://npmjs.com/package/standup-cli-tool)** | generate your daily standup from git commits. 297+ npm downloads |
+| 🐱 **[bytepet-cli](https://npmjs.com/package/bytepet-cli)** | a terminal pet that lives in your CLI. 90+ npm downloads |
 
 ---
 
@@ -57,27 +57,26 @@ founder of **[Tech Arc Labs](https://techarclabs.com)** — AI-native agency del
 
 ## 📦 open source & platforms
 
-- **[naas.ai](https://naas.ai)** — contributor: PDF Q&A pipelines, cloud Jupyter templates, prompt engineering advocacy
-- **[npm](https://www.npmjs.com/~muhtalhakhan)** — published packages: standup-cli-tool, bytepet-cli
-- **Hacktoberfest** — contributor 2023, 2024, 2025
-- **Build Club** — selected as one of 100 AI Global Experts globally
+- **[naas.ai](https://naas.ai)** contributor: PDF Q&A pipelines, cloud Jupyter templates, prompt engineering advocacy
+- **[npm](https://www.npmjs.com/~muhtalhakhan)** published packages: standup-cli-tool, bytepet-cli
+- **Hacktoberfest** contributor 2023, 2024, 2025
 
 ---
 
 ## 💼 client work & founder track
 
-- **17+ clients** across UK & USA via Tech Arc Labs — agentic systems, LLM pipelines, MCP integrations
-- **MVPs shipped in under 100 hours** — MentorSpace AI, VoiceOG, Law School of AI
-- **Bank AL Habib** — built ETL pipelines and ML models cutting manual effort by 90%
-- **East River Digital** — led company-wide GenAI adoption, voice-based NLP agents
+- **17+ clients** across UK & USA via Tech Arc Labs: agentic systems, LLM pipelines, MCP integrations
+- **MVPs shipped in under 100 hours**: MentorSpace AI, VoiceOG, Law School of AI
+- **Bank AL Habib** built ETL pipelines and ML models cutting manual effort by 90%
+- **East River Digital** led company-wide GenAI adoption and voice-based NLP agents
 
 ---
 
 ## ✍️ writing & community
 
-- 📰 **[AI Bytes Newsletter](https://substack.com/@muhtalhakhan)** — weekly agentic AI and LLM breakdowns for builders
-- 🧑‍🤝‍🧑 **[0to1.builders](https://0to1.builders)** — 160+ founders & developers shipping products
-- 📝 **[Medium](https://medium.com/@muhtalhakhan)** — AI, agents, and builder mindset
+- 📰 **[AI Bytes Newsletter](https://substack.com/@muhtalhakhan)** weekly agentic AI and LLM breakdowns for builders
+- 🧑‍🤝‍🧑 **[0to1.builders](https://0to1.builders)** 160+ founders & developers shipping products
+- 📝 **[Medium](https://medium.com/@muhtalhakhan)** AI, agents, and builder mindset
 
 ---
 
