@@ -59,6 +59,7 @@ founder of **[Tech Arc Labs](https://techarclabs.com)**, an AI-native agency del
 
 - **[naas.ai](https://naas.ai)** contributor: PDF Q&A pipelines, cloud Jupyter templates, prompt engineering advocacy
 - **[npm](https://www.npmjs.com/~muhtalhakhan)** published packages: standup-cli-tool, bytepet-cli
+- **[pypi](https://pypi.org/user/muhtalhakhan/)** published packages: standup-cli-tool, bytepet-cli
 - **Hacktoberfest** contributor 2023, 2024, 2025
 
 ---
