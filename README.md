@@ -1,34 +1,101 @@
-[![An image of @muhtalhakhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhtalhakhan)](https://holopin.io/@muhtalhakhan)
+[![Holopin badges](https://holopin.me/muhtalhakhan)](https://holopin.io/@muhtalhakhan)
 
-### <img src="https://github.com/beliketalha/beliketalha/blob/main/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/beliketalha/beliketalha/blob/main/Assets/Earth.gif" width="24px"> 
+### <img src="https://github.com/beliketalha/beliketalha/blob/main/Assets/Hi.gif" width="29px"> hey, i'm talha — spidey 🕷️
 
-✨ Welcome to my **My GitHub**✨
+**ai architect & founder** building agentic systems that actually ship.
 
-# 💫 About Me:
-Hey! 👋 I'm Muhammad Talha Khan, a passionate Data Scientist and AI Engineer thriving at the intersection of AI, ML, and innovative data solutions. I'm dedicated to making a meaningful impact through collaboration and open-source contributions.<br><br>
-I hold a Bachelor of Science in Computer Science from Iqra University, where I received Dean's Honor Awards multiple times, reflecting my commitment to excellence in both academic and professional settings. Currently, I'm contributing to naas.ai, where I help develop seamless cloud integrations for Jupyter Notebooks and create open-source templates that enhance data accessibility.<br><br>
-As a former Data Engineer Intern, I've honed my skills in translating complex data concepts into user-friendly tools, fostering a collaborative environment that drives forward the field of data services. I'm also the co-founder of Mentor Me, a startup backed by Microsoft Startups, focused on empowering individuals through mentorship. In my free time, I enjoy gaming on my custom-built PC, where I play titles like Valorant. I love connecting with like-minded individuals to collaborate on projects that make a difference in the world. Let’s connect and innovate together! 🚀🌟 #AI #MachineLearning #DataEngineering #OpenSource #Collaboration #muhtalhakhan<br><br>I am open to intermediate roles regarding Data Science or AI Engineer which eventually would help me to escalate and learn more about the real world. I have made some university projects using Java, C, C++, and some Web forms using JavaScript. My template of self-learning chat-bot has been published over Naas.AI.<br><br>Furthermore, I wrote some blogs on medium as well as on my blogging website (mohammadtalhakhan.blogspot.com) which were about technology and mainly focused on Artificial Intelligence and Machine Learning.<br><br>I am a person who likes to be fit and healthy for that I used to play cricket, football and sometimes go to gym A while I also play Valorant as an esports player not the professional one.<br><br>- 🕷️ My nickname and psuedo name is Spidey<br><br>- 💻 I’m currently a Data Scientist.<br><br>- 🌱 I'm currently learning Responsible AI, Agentic AI, and Responsible LLMs.<br><br>- 🔭 I’m looking to collaborate on **OpenSourced** projects on **AI/Agents**<br><br>- 👯 I'm looking to collaborate on social impact projects too.<br><br>- 🤔 I’m looking for helping people who are starting in ML/Data Science, and AI.<br><br>- 💬 Ask me anything about **Aritificial Intelligence, Data Science, and Python**.<br><br>- 📫 reach me talhakhan325.work@gmail.com<br><br>- 😄 Pronouns: **Problem Solver**, **Leader** and **Creative**<br><br>- ⚡ Fun fact: The bravest thing I've ever done was opening of Github Account.
+founder of **[Tech Arc Labs](https://techarclabs.com)** — AI-native agency delivering production multi-agent systems for 17+ clients across UK & USA. founder of **[0to1.builders](https://0to1.builders)** — a community of 160+ founders and developers shipping from zero.
 
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhtalhakhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhtalhakhan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhtalhakhan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hitalhahere) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13974822) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/HiTalhaHere) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/muhtalhakhan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@muhtalhakhan) 
+## 🏗️ what i'm building
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=plastic&logo=Ionic&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=plastic&logo=Prezi&logoColor=white)
+| project | what it is |
+|---|---|
+| 🤖 **[Tech Arc Labs](https://techarclabs.com)** | AI agency — agentic systems, MCP integrations, LLM context engineering |
+| 🧑‍🤝‍🧑 **[0to1.builders](https://0to1.builders)** | builder community for founders shipping real products |
+| 📦 **[standup-cli](https://npmjs.com/package/standup-cli-tool)** | generate your daily standup from git commits — 297+ npm downloads |
+| 🐱 **[bytepet-cli](https://npmjs.com/package/bytepet-cli)** | a terminal pet that lives in your CLI — 90+ npm downloads |
 
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhtalhakhan&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhtalhakhan&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhtalhakhan&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
--->
+---
 
-### ✍️ Random Dev Quote
+## 🧠 modern stack
+
+**agents & llms**
+
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Orchestration-000000?style=plastic&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-5A5A5A?style=plastic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=plastic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=plastic&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-CC785C?style=plastic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0052CC?style=plastic&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=plastic&logo=postgresql&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi_API-7C3AED?style=plastic&logoColor=white)
+
+**languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
+
+**infra & backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
+
+---
+
+## 📦 open source & platforms
+
+- **[naas.ai](https://naas.ai)** — contributor: PDF Q&A pipelines, cloud Jupyter templates, prompt engineering advocacy
+- **[npm](https://www.npmjs.com/~muhtalhakhan)** — published packages: standup-cli-tool, bytepet-cli
+- **Hacktoberfest** — contributor 2023, 2024, 2025
+- **Build Club** — selected as one of 100 AI Global Experts globally
+
+---
+
+## 💼 client work & founder track
+
+- **17+ clients** across UK & USA via Tech Arc Labs — agentic systems, LLM pipelines, MCP integrations
+- **MVPs shipped in under 100 hours** — MentorSpace AI, VoiceOG, Law School of AI
+- **Bank AL Habib** — built ETL pipelines and ML models cutting manual effort by 90%
+- **East River Digital** — led company-wide GenAI adoption, voice-based NLP agents
+
+---
+
+## ✍️ writing & community
+
+- 📰 **[AI Bytes Newsletter](https://substack.com/@muhtalhakhan)** — weekly agentic AI and LLM breakdowns for builders
+- 🧑‍🤝‍🧑 **[0to1.builders](https://0to1.builders)** — 160+ founders & developers shipping products
+- 📝 **[Medium](https://medium.com/@muhtalhakhan)** — AI, agents, and builder mindset
+
+---
+
+## 🌐 socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhtalhakhan)
+[![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/muhtalhakhan)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhtalhakhan)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@muhtalhakhan)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13974822)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhtalhakhan)
+
+---
+
+### ✍️ random dev quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!--
 ---
-[![](https://visitcount.itsvg.in/api?id=muhtalhakhan&icon=0&color=0)](https://visitcount.itsvg.in)
--->
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muhtalhakhan) 
+## 💰 support my open source work
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muhtalhakhan)
